@@ -1,2 +1,0 @@
-# acrium
-Acrium Ltd. 

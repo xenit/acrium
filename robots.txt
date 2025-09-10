@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xenit.github.io/acrium/sitemap.xml

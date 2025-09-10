@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Acrium Ltd</title>
+    <link href="https://xenit.github.io/acrium/feed.xml" rel="self" />
+    <link href="https://xenit.github.io/acrium" />
+    <updated>1970-01-01T02:00:00+02:00</updated>
+    <author>
+        <name>JA</name>
+    </author>
+    <id>https://xenit.github.io/acrium</id>
+
+</feed>
